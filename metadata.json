@@ -1,0 +1,6 @@
+{
+  "name": "نجم",
+  "description": "نجم - منصة التعلم الذكية التفاعلية لتلخيص الدروس، إنشاء الكويزات، والاختبارات المخصصة بالمساعد الذكي Gemini.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
