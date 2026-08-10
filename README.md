@@ -35,13 +35,10 @@
 * **PDF.js / PDFExtract:** لقراءة وتحليل ملفات الـ PDF والكتب الدراسية.
 * **Firebase (Firestore & Auth):** لإدارة حسابات الطلاب وحفظ الخطط والبيانات السحابية بالمزامنة الفورية.
 
----
+--- https://ai.studio/apps/a7ad69af-3eba-4805-b345-0eb6ab16aaa3
 
 
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
 
 # Run and deploy your AI Studio app
 
